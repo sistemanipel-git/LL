@@ -4,11 +4,11 @@ console.log(typeof userName);
 let adminName = 12.5;
 console.log(typeof adminName);
 
-let dohomework_1 = "awesome";
-let dohomework_2 = "programming language";
-let dohomework_3 = "test automation script";
-console.log(`Javascript is: ${dohomework_1} ${dohomework_3} ${dohomework_2}`);
+let DoHomework1 = "awesome";
+let DoHomework2 = "programming language";
+let DoHomework3 = "test automation script";
+console.log(`Javascript is: ${DoHomework1} ${DoHomework3} ${DoHomework2}`);
 
-let my_mood = "sorrow";
-my_mood = "hilarious";
-console.log(my_mood);
+let MyMood = "sorrow";
+MyMood = "hilarious";
+console.log(MyMood);
