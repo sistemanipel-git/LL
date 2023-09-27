@@ -1,5 +1,5 @@
-let Name1 = "Peppa & ";
-let Name2 = "Sarah ";
-let Welcome = "Welcome! You have just done string concatenation";
+let name1 = "Peppa & ";
+let name2 = "Sarah ";
+let nelcome = "Welcome! You have just done string concatenation";
 
-console.log(Name1 + Name2 + Welcome);
+console.log(name1 + name2 + Welcome);

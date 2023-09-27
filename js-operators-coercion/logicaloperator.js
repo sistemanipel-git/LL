@@ -1,5 +1,5 @@
-const DriverYears = 18;
-const DriverLicense = DriverYears >= 18;
-const DriverPermit = true;
+const driverYears = 18;
+const driverLicense = DriverYears >= 18;
+const driverPermit = true;
 
-console.log(DriverLicense && DriverPermit);
+console.log(driverLicense && driverPermit);
