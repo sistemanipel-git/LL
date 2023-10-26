@@ -20,6 +20,6 @@ function repairFunctionCourse3(messageHead, messageMidle, messageEnd) {
 let returnRepairFunctionCourse1 = repairFunctionCourse3(
   "Welcome",
   "to",
-  "JavaScript"
+  "JavaScript",
 );
 console.log(returnRepairFunctionCourse1);

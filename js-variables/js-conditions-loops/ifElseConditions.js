@@ -11,6 +11,6 @@ if (yearsOfExperience <= 0.5) {
   console.log(
     "Salary = 667 pounds, Bonus =",
     yearsOfExperience * 667,
-    "pounds"
+    "pounds",
   );
 }
